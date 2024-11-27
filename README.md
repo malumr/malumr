@@ -1,4 +1,4 @@
-<h2 align="left">Oii!! Eu sou Maria Luiza e atualmento estudo Ciências da Computação </h2>
+<h2 align="left">Oii!! Eu sou Maria Luiza </h2>
 
 ###
 
